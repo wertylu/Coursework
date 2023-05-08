@@ -1,0 +1,25 @@
+.header {
+    height: 100px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.navigation {
+    display: flex;
+    align-items: flex-end;
+    margin-left: 40%;
+
+}
+
+.pageswitch{
+    font-size: larger;
+    margin: auto 30px ;
+    text-decoration: none;
+    color: black;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
